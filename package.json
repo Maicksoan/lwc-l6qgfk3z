@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/maicksoan.lwc-l6qgfk3z",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve VwSnQ5DYJXT0aGdfgCfa --open"
+  }
+}
